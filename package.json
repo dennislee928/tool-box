@@ -20,8 +20,8 @@
     "git-cz": "^4.9.0",
 
     "pinia": "^2.2.2",
-    "vue": "^3.5.21",
-    "vue-router": "^4.6.0"
+    "vue": "^3.5.22",
+    "vue-router": "^4.3.3"
 
   },
   "devDependencies": {
